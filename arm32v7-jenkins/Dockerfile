@@ -4,7 +4,7 @@ FROM arm32v7/ubuntu:18.04
 ENV JENKINS_VERSION 2.190.2
 
 # Other env variables
-ENV JENKINS_HOME /var/jenkins_home
+ENV JENKINS_HOME /var/jenkins
 ENV JENKINS_SLAVE_AGENT_PORT 50000
 
 # Install dependencies
