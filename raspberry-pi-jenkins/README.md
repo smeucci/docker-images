@@ -1,6 +1,6 @@
 ## arm32v7/jenkins
 
-Dockerfile to build a jenkins image for raspberry pi.
+Dockerfile to build a jenkins image for raspberry pi (arm32v7).
 
 Create a container like this:
 
